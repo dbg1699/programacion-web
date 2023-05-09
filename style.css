@@ -1,0 +1,31 @@
+
+
+.contenedor{
+    border: 1px solid salmon;
+    width: 400px;
+    height: 300px;
+}
+
+.bloque-1 {
+    background-color: darkslategrey;
+    width: 400px;
+    height: 100px;
+}
+
+.bloque-1 {
+    background-color: darkslategrey;
+    width: 400px;
+    height: 100px;
+}
+
+.bloque-2 {
+    background-color: rgb(62, 214, 214);
+    width: 400px;
+    height: 100px;
+}
+
+.bloque-3 {
+    background-color: rgb(4, 132, 138);
+    width: 400px;
+    height: 100px;
+}
